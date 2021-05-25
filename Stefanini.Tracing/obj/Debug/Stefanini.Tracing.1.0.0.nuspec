@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Stefanini.Tracing</id>
+    <version>1.0.0</version>
+    <authors>Stefanini.Tracing</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Castle.Core" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Jaeger" version="0.3.7" exclude="Build,Analyzers" />
+        <dependency id="OpenTracing" version="0.12.1" exclude="Build,Analyzers" />
+        <dependency id="OpenTracing.Contrib.NetCore" version="0.6.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.dll" target="lib\netcoreapp3.1\Stefanini.Tracing.dll" />
+  </files>
+</package>

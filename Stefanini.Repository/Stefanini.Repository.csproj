@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="4.4.1" />   
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stefanini.Domain\Stefanini.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

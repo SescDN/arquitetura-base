@@ -1,0 +1,4 @@
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\bin\Debug\netstandard2.0\Stefanini.Tracing.deps.json
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\bin\Debug\netstandard2.0\Stefanini.Tracing.dll
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netstandard2.0\Stefanini.Tracing.AssemblyInfoInputs.cache
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netstandard2.0\Stefanini.Tracing.AssemblyInfo.cs

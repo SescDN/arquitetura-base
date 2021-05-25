@@ -1,0 +1,35 @@
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.deps.json
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csprojAssemblyReference.cache
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csproj.CoreCompileInputs.cache
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfoInputs.cache
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfo.cs
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+D:\Fabricio\Projetos\Stefanini\demoamqp\Shared\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.deps.json
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csproj.CoreCompileInputs.cache
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfoInputs.cache
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfo.cs
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+C:\Users\jcmarcelino\Desktop\arch-sesc-master (1)\arch-sesc-master\Arquitetura\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.deps.json
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csprojAssemblyReference.cache
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfo.cs
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+C:\Users\Rodrigo Reis Born\source\repos\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.deps.json
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\bin\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csprojAssemblyReference.cache
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfoInputs.cache
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.AssemblyInfo.cs
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.csproj.CoreCompileInputs.cache
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.dll
+D:\StarterKit_Entrega\arquitetura-base\Stefanini.Tracing\obj\Debug\netcoreapp3.1\Stefanini.Tracing.pdb
